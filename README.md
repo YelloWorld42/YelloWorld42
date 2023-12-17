@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @YelloWorld42
+- 👀 I’m interested in exploring diverse aspects of technology, software development, and expanding my coding horizons.
+- 🌱 I’m currently learning the intricacies of JavaScript, Node.js and gearing up for a qualifying development training program starting in February.
+- 💞️ I’m looking to collaborate on exciting projects that involve Node.js, web development, and innovative applications.
+- 📫 You can reach me via email at [YelloWorld42@gmail.com] to discuss potential collaborations and share insights. Not yet on LinkedIn. (soon, I will be)
